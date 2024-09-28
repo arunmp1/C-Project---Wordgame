@@ -40,10 +40,10 @@ Lowercase Conversion: Any string processed will be converted to lowercase.
 Example
 Input file (places.txt):
 
-New York
-Los Angeles
-Chicago
-Houston
+New York,
+Los Angeles,
+Chicago,
+Houston,
 Phoenix
 
 The program will load these places and process them according to the functions defined in the code.
