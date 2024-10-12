@@ -1,6 +1,6 @@
 # C-Project---Wordgame
 
-Description
+
 This project implements a C program that performs various tasks such as:
 
 Loading place names from a file into an array.
